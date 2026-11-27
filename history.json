@@ -71,6 +71,10 @@
     "2026-11-25": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-26": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "spaley2011/debpak": {
@@ -145,6 +149,10 @@
     "2026-11-25": {
       "count": 1,
       "uniques": 1
+    },
+    "2026-11-26": {
+      "count": 2,
+      "uniques": 2
     }
   },
   "spaley2011/dotfiles": {
@@ -219,6 +227,10 @@
     "2026-11-26": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-27": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "spaley2011/traffic-stats": {
@@ -287,6 +299,10 @@
       "uniques": 0
     },
     "2026-11-25": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-26": {
       "count": 0,
       "uniques": 0
     }
