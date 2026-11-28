@@ -75,6 +75,10 @@
     "2026-11-26": {
       "count": 0,
       "uniques": 0
+    },
+    "2026-11-27": {
+      "count": 0,
+      "uniques": 0
     }
   },
   "spaley2011/debpak": {
@@ -153,6 +157,10 @@
     "2026-11-26": {
       "count": 2,
       "uniques": 2
+    },
+    "2026-11-27": {
+      "count": 5,
+      "uniques": 3
     }
   },
   "spaley2011/dotfiles": {
@@ -307,6 +315,10 @@
       "uniques": 0
     },
     "2026-11-26": {
+      "count": 0,
+      "uniques": 0
+    },
+    "2026-11-27": {
       "count": 0,
       "uniques": 0
     }
